@@ -1,4 +1,5 @@
 #Controle de Lâmpada
+
 Este projeto é uma simulação simples de controle de uma lâmpada usando HTML, CSS e JavaScript. O código permite acender, apagar e quebrar a lâmpada através de interações com o mouse e cliques em botões.
 
 Funcionalidades
